@@ -4,7 +4,7 @@
 <P>Images captured in outdoor scenes can be highly degraded due to poor lighting conditions. These images can have low dynamic ranges with high noise levels that affect the overall performance of computer vision algorithms. To make computer vision algorithms robust in low-light conditions, use low-light image enhancement to improve the visibility of an image. The histogram of pixel-wise inversion of low-light images or HDR images is very similar to the histogram of hazy images. Thus, you can use haze removal techniques to enhance low-light images.</P>
 
 
-<h2>ORGINAL IMAGE >------------------------------------>> ENHANCED IMAGE</h2>
+<h2>ORGINAL IMAGE >-------------------------->> ENHANCED IMAGE</h2>
 
 ![image](https://user-images.githubusercontent.com/73076876/138980624-cbcf98bc-ac43-41a5-a399-5ca186858be0.png)
 
