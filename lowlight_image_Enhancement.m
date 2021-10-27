@@ -1,6 +1,6 @@
 
 %Import an RGB image captured in low light.
-A = imread('F:\COLLEGE FILES\2020-2021\Semester 2\Sparowatch Placement\Week 2\Image Enhancement\lowlight.jpg');
+A = imread('lowlight.jpg');
 
 
 %returns image AB that is scale[300, 300] times the size of image A. 
