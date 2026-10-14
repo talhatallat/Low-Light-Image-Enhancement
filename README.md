@@ -1,5 +1,5 @@
 # Low-Light-Image-Enhancement
-### <a href="https://dt021a-3.wixsite.com/website/about/" target= "_blank" >Check this MathWorks link</a> 
+### <a href="https://github.com/talhatallat/Low-Light-Image-Enhancement/blob/main/lowlight_image_Enhancement.m" target= "_blank" >Check this MathWorks link</a> 
 
 <P>Images captured in outdoor scenes can be highly degraded due to poor lighting conditions. These images can have low dynamic ranges with high noise levels that affect the overall performance of computer vision algorithms. To make computer vision algorithms robust in low-light conditions, use low-light image enhancement to improve the visibility of an image. The histogram of pixel-wise inversion of low-light images or HDR images is very similar to the histogram of hazy images. Thus, you can use haze removal techniques to enhance low-light images.</P>
 
